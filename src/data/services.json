@@ -1,0 +1,52 @@
+{
+    "services":[
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "Freedom from 9 to 5 job",
+            "url": "https://images.pexels.com/photos/40815/youth-active-jump-happy-40815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl":"https://images.pexels.com/photos/5060806/pexels-photo-5060806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "des":"Through Vo advisor, you can attain freedom from all your job worries, and tension and can work at your ease."
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Freedom",
+            "url": "https://images.pexels.com/photos/5562086/pexels-photo-5562086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl": "https://images.pexels.com/photos/4560142/pexels-photo-4560142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "des":"By becoming a VO Advisor you get freedom from job worries."
+          },
+          {
+            "albumId": 1,
+            "id": 3,
+            "title": "Diverse Products",
+            "url": "https://images.pexels.com/photos/5562086/pexels-photo-5562086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl": "https://images.pexels.com/photos/7948002/pexels-photo-7948002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "des":"We offer multiple financial products so that you can choose the product as per your expertise and comfort level."
+          },
+          {
+            "albumId": 1,
+            "id": 4,
+            "title": "Training",
+            "url": "https://images.pexels.com/photos/5562086/pexels-photo-5562086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl": "https://images.pexels.com/photos/7648306/pexels-photo-7648306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "des":"We have dedicated team of professionals who will provide you continuous training. And will help clear all your doubts."
+          },
+          {
+            "albumId": 1,
+            "id": 5,
+            "title": "Limitless earning",
+            "url": "https://images.pexels.com/photos/5562086/pexels-photo-5562086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl": "https://images.pexels.com/photos/5476028/pexels-photo-5476028.jpeg",
+            "des":"No limit to how much you can earn. What you need to have is a strong determination."
+          },
+          {
+            "albumId": 1,
+            "id": 6,
+            "title": "Customer Service Support",
+            "url": "https://images.pexels.com/photos/5562086/pexels-photo-5562086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "thumbnailUrl": "https://images.pexels.com/photos/7709191/pexels-photo-7709191.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "des":"Our customer service support system would be there 24*7 to help and solve all of your queries."
+          }
+    ]
+}
